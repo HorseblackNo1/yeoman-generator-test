@@ -1,0 +1,29 @@
+{
+  "name": "generator-test",
+  "version": "1.0.0",
+  "description": "a test yeoman-generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "files": [
+    "app",
+    "router"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HorseblackNo1/yeoman-generator-test.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HorseblackNo1/yeoman-generator-test/issues"
+  },
+  "homepage": "https://github.com/HorseblackNo1/yeoman-generator-test#readme",
+  "dependencies": {
+    "yeoman-generator": "^5.8.0"
+  }
+}
