@@ -5,6 +5,6 @@ module.exports = class extends Generator {
 //     this.log('hello ...');
 //   }
     method(){
-        console.log("测试成功")
+        console.log("恭喜大佬测试成功")
     }
 };
